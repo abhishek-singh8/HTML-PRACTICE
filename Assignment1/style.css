@@ -1,0 +1,14 @@
+body{
+background-color:lightgrey;
+}
+.FirstBlock{
+	margin-left: 460px;
+}
+.SecondBlock{
+	margin-left: 430px;
+}
+blockquote{
+	border: 1px solid white;
+	width: 50%;
+	text-align: center;
+}
